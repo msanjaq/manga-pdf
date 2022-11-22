@@ -3,6 +3,6 @@ certifi==2018.4.16
 chardet==3.0.4
 idna==2.7
 img2pdf==0.2.4
-Pillow==5.2.0
+Pillow==9.3.0
 requests==2.19.1
 urllib3==1.23
